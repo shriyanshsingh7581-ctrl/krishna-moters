@@ -1,0 +1,6 @@
+{
+  "name": "Krishna Motors — Patiala",
+  "description": "Trusted Since 2007. Genuine Car & Bike Spare Parts and Lubricants in Patiala, Punjab. Interactive Part Finder, Engine Oil Advisor & WhatsApp Inquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
